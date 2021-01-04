@@ -26,4 +26,6 @@ You are encouraged to form groups of 3-4 based on the AWS hanson experience in b
 [AI-ML-using-Sagemaker](AI-ML-using-Sagemaker.md)
 ![sagemaker-arch](media/sagemaker-arch.png)
 
-## Lab 6: 
+## Lab 6: Ingest and Analysis the Real-time data (Optional)
+[Clickstream Anomaly Detection](Clickstream-Anomaly-Detection.md)
+![kinesis-arch](media/kinesis-arch.png)
