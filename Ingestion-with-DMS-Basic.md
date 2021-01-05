@@ -11,12 +11,14 @@ In this lab, you will complete the following tasks using AWS CloudFormation temp
 
 ![dms-arch](media/dms-arch.png)
 
-## Session 1: Advance tasks to create DMS step by step
+## Session 1: DMS Quick Start and Ingest PostgreSQL data to S3
 ### DMS Prepare Lab1
-1. [Introduction](https://aws-dataengineering-day.workshop.aws/400/410-pre-lab-1.html#limit-instruction) 
+1. [Introduction](https://aws-dataengineering-day.workshop.aws/400/410-pre-lab-1.html#introduction) 
 2. [Create the Instructor Environment, including a RDS Postgres database as the data source](https://aws-dataengineering-day.workshop.aws/400/410-pre-lab-1.html#create-the-instructor-environment)
-3. [Changing RDS Security Group](https://aws-dataengineering-day.workshop.aws/400/410-pre-lab-1.html#changing-rds-security-group)
-4. Access Database
+
+### DMS ingestion Lab
+1. [Changing RDS Security Group](https://aws-dataengineering-day.workshop.aws/400/410-pre-lab-1.html#changing-rds-security-group). You only need run step1 - step4.
+2. Access Database
     1. Launch a EC2 instance with `Amazon Linux 2 AMI (HVM)` / t2.micro instancetype
     2. VPC: `DMSLabSourceDB`, Subnet: `DMSLabEC2`, `Auto-assign Public IP`: Enable
     3. Create a Security group of EC2 to allow 22 port and 443 port
@@ -36,11 +38,7 @@ In this lab, you will complete the following tasks using AWS CloudFormation temp
     # sample JDBC URL
     jdbc:postgresql:// dmslabinstance.cyhjolfstdii.us-east-1.rds.amazonaws.com:5432/sportstickets
     ```
-
-### DMS ingestion Lab
-1. [Create the Student Environment](https://aws-dataengineering-day.workshop.aws/400/430-pre-lab-2.html)
-2. [DMS Main Lab](https://aws-dataengineering-day.workshop.aws/400/440-main-lab.html)
-
+3. [Setup DMS ingestion](https://aws-dataengineering-day.workshop.aws/400/420-auto-complete-lab.html)
 
 ### Check the result
 1. At this point, the source data has been fully loaded from RDS database to your S3 bucket via DMS. Go to AWS DMS console, you should see two Database migration tasks are 100% completed. 
