@@ -14,4 +14,3 @@ The [DMS Lab](Ingestion-with-DMS.md) and [Glue ETL lab](Transforming-data-with-G
 - Build an Amazon QuickSight Dashboard
   1. [Set up QuickSight](https://aws-dataengineering-day.workshop.aws/800/810-athena-quicksight.html)
   2. [Create QuickSight Charts](https://aws-dataengineering-day.workshop.aws/800/810-athena-quicksight.html#create-quicksight-charts)
-- [Athena Workgroups to Control Query Access and Costs (Optional)](https://aws-dataengineering-day.workshop.aws/800/810-athena-quicksight.html#athena-workgroups-to-control-query-access-and-costs-optional)

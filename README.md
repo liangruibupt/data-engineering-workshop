@@ -20,7 +20,8 @@ You are encouraged to form groups of 3-4 based on the AWS hanson experience in b
 ![glue-arch](media/glue-arch.png)
 
 ## Lab 3: Explore this DataLake using SQL and Visualization tool
-[Athena-and-QuickSight](Athena-and-QuickSight.md)
+- [Athena-and-QuickSight-Basic](Athena-and-QuickSight-Basic.md)
+- [(Optional) Athena-and-QuickSight (Athena Workgroups)](Athena-and-QuickSight.md)
 ![athena-arch](media/athena-arch.png)
 
 ## Lab 4: Data Lake Automation with Lake Formation
