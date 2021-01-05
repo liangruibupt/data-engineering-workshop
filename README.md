@@ -25,7 +25,8 @@ You are encouraged to form groups of 3-4 based on the AWS hanson experience in b
 ![athena-arch](media/athena-arch.png)
 
 ## Lab 4: Data Lake Automation with Lake Formation
-[Data-Lake-Automation-with-LakeFormation](Data-Lake-Automation-with-LakeFormation.md)
+- [Data-Lake-Automation-with-LakeFormation-Basic](Data-Lake-Automation-with-LakeFormation-Basic.md)
+- [(Optional) Data-Lake-Automation-with-LakeFormation (Grant fine grain access controls)](Data-Lake-Automation-with-LakeFormation.md)
 ![lakeformation-arch](media/lakeformation-arch.png)
 
 ## Lab 5: Do AI-ML workload using-Sagemaker (Optional)

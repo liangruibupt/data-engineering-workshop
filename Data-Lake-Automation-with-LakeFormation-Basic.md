@@ -12,8 +12,6 @@ Tasks Completed in this Lab:
 3. Lake Formation – Add Administrator and start workflows using Blueprints
 4. Explore the components of a Glue WorkFlow created by lake formation
 5. Explore workflow results in Athena
-6. Grant fine grain access controls to Data Lake user
-7. Verify data permissions using Athena
 
 ## Data-Lake-Automation-with-LakeFormation
 - [Setup Network Configuration](https://aws-dataengineering-day.workshop.aws/1200/sagemaker.html#setup-network-configuration)
@@ -22,4 +20,3 @@ Tasks Completed in this Lab:
 - [Lake Formation start workflows using Blueprints](https://aws-dataengineering-day.workshop.aws/1200/sagemaker.html#lake-formation--add-administrator-and-start-workflows-using-blueprints)
 - [Explore the Underlying Components of a Blueprint](https://aws-dataengineering-day.workshop.aws/1200/sagemaker.html#explore-the-underlying-components-of-a-blueprint)
 - [Explore workflow results in Athena](https://aws-dataengineering-day.workshop.aws/1200/sagemaker.html#explore-workflow-results-in-athena)
-- [(Optional) Grant fine grain access controls to Data Lake user](https://aws-dataengineering-day.workshop.aws/1200/sagemaker.html#optional-grant-fine-grain-access-controls-to-data-lake-user)
