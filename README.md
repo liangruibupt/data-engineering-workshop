@@ -10,13 +10,13 @@ You are encouraged to form groups of 3-4 based on the AWS hanson experience in b
 [Event-Engine-login](Event-Engine-login.md)
 
 ## Lab 1: Perform Data Ingestion with Data Migration Service
-[Ingestion-with-DMS-Basic](Ingestion-with-DMS-Basic.md)
-
-[(Optional) Ingestion-with-DMS Advance Task](Ingestion-with-DMS.md)
+- [Ingestion-with-DMS-Basic](Ingestion-with-DMS-Basic.md)
+- [(Optional) Ingestion-with-DMS Advance Task](Ingestion-with-DMS.md)
 ![dms-arch](media/dms-arch.png)
 
 ## Lab 2: Data Transformations ETL with Glue
-[Transforming-data-with-Glue](Transforming-data-with-Glue.md)
+- [Transforming-data-with-Glue-Basic](Transforming-data-with-Glue-Basic.md)
+- [(Optional) Transforming-data-with-Glue (Bookmark and Workflow)](Transforming-data-with-Glue.md)
 ![glue-arch](media/glue-arch.png)
 
 ## Lab 3: Explore this DataLake using SQL and Visualization tool
