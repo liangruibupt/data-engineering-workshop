@@ -6,6 +6,9 @@ For the hands-on part of this workshop you need **your laptop with Internet Acce
 
 You are encouraged to form groups of 3-4 based on the AWS hanson experience in big data services and at least one person in your group must have a laptop to perform the tasks.
 
+## Prepare Event Engine login
+[Event-Engine-login](Event-Engine-login.md)
+
 ## Lab 1: Perform Data Ingestion with Data Migration Service
 [Ingestion-with-DMS](Ingestion-with-DMS.md)
 ![dms-arch](media/dms-arch.png)
